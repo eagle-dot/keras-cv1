@@ -6,19 +6,20 @@ https://keras.io/examples/vision/image_classification_from_scratch/
 
 1) download data 
 
-go to the install directory and run the following command 
+go to the install directory and run the following  2 commands 
 
 C:\<install-dir> 
 
-curl -O https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
-unzip -q kagglecatsanddogs_3367a.zip
+>curl -O https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
 
-example fro the install-dir
+>unzip -q kagglecatsanddogs_3367a.zip
+
+example for the install-dir
 C:\Users\mitchell\PycharmProjects\BT1-ph1\keras>
 
 2) download the source code to your install_dir
 
-3) you might need to upgrade your tensorflow 
+3) you might need to upgrade your tensorflow by running
 pip install tensorflow --upgrade
 
 
